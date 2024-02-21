@@ -1,7 +1,7 @@
 # 3D Printer Core H4 - GTmax
 
 Este repositório armazena os G-codes inicial e final de fábrica da Impressora 3D Core H4 da GTmax.</br>
-Os códigos são utilizados para realizar a configuração da impressora no software UltiMaker Cura.
+Os códigos são utilizados para realizar a configuração da impressora no _software_ UltiMaker Cura, entre outros.
 
 ## G-code
 * G-code Inicial
@@ -36,7 +36,7 @@ M300 S4 P1000 ; GERA BEEP
 ```
 
 ## Perfis
-Os perfis de fábrica também estão disponíveis <a href=“https://github.com/mannalab/3D_Printer_Core_H4/tree/main/Perfis“>Clique Aqui</a>.
+Os perfis de fábrica também estão disponíveis [Clique Aqui](https://github.com/mannalab/3D_Printer_Core_H4/tree/main/Perfis).
 
 * Filamento ABS
 * Filamento PLA
